@@ -1,4 +1,4 @@
 Keras==2.4.3
 opencv-python
-numpy==1.18.5
+numpy==2.2.3
 streamlit==0.71.0
