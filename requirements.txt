@@ -1,6 +1,6 @@
-Keras==3.8.0
-opencv-python-headless
-numpy==2.2.3
-streamlit==1.42.0
-protobuf==3.20.3
+numpy==1.26.4
 tensorflow==2.18.0
+streamlit==1.42.0
+keras==3.8.0
+opencv-python-headless
+protobuf==3.20.3
